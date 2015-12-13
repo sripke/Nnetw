@@ -11,18 +11,19 @@ object Nnetw {
     val conf = new SparkConf().setAppName("Neural Network")
     val sc = new SparkContext(conf)
 
-    val rows = sc.textFile("m1.txt").map { line =>
+    // Build a distributed RowMatrix w for weights
+    val wRows = sc.textFile("w.txt").map { line =>
       val values = line.split(' ').map(_.toDouble)
       Vectors.sparse(values.length,
                     values.zipWithIndex.map(e => (e._2, e._1)).filter(_._2 != 0.0))
     }
+    val w = new RowMatrix(wRows)
 
-    // Create dense vectors for input a and biases b.
-    val a: Vector = Vectors.dense(0.1, 0.0, 0.3)
-    val b: Vector = Vectors.dense(0.3, 0.2, 0.1)
+    // Create dense vector (matrix) a for input
+    val aRows = sc.textFile("a.txt").map(_.split(' ').map(_.toDouble))
+    val a = Matrices.dense(3, 2, aRows.collect()(0))
 
-    // Create a dense matrix w for the weights)
-    val w: Matrix = Matrices.dense(3, 2, Array(0.1, 0.3, 0.5, 0.2, 0.4, 0.6))
-    //println("Lines with a: %s, Lines with b: %s".format(numAs, numBs))
+    w.rows.foreach(println)
+    w.multiply(a.transpose).rows.foreach(println)
   }
 }
