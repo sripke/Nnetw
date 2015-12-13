@@ -1,0 +1,5 @@
+sbt clean package
+spark-submit --class MLPC target/scala-2.10/neural-network-project_2.10-1.0.jar
+
+sbt clean package
+spark-submit --class Nnetw target/scala-2.10/neural-network-project_2.10-1.0.jar
