@@ -23,7 +23,7 @@ object Nnetw {
     val aRows = sc.textFile("a.txt").map(_.split(' ').map(_.toDouble))
     val a = Matrices.dense(3, 2, aRows.collect()(0))
 
-    w.rows.foreach(println)
+    //w.rows.foreach(println)
     w.multiply(a.transpose).rows.foreach(println)
   }
 }
