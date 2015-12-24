@@ -1,0 +1,271 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+11 items
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/MLPC$$typecreator1$1.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/MLPC$.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/MLPC.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw$$anonfun$1$$anonfun$2.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw$$anonfun$1$$anonfun$apply$1.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw$$anonfun$1$$anonfun$apply$2.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw$$anonfun$1.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw$$anonfun$3$$anonfun$apply$3.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw$$anonfun$3.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw$.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw.class
+binary dependencies:
+11 items
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> /Users/Steffen/.ivy2/cache/org.apache.spark/spark-catalyst_2.10/jars/spark-catalyst_2.10-1.5.2.jar
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> /Users/Steffen/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> /Users/Steffen/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.5.2.jar
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> /Users/Steffen/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-1.5.2.jar
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> /Users/Steffen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> /Users/Steffen/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.4.jar
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.5.2.jar
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+11 items
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> MLPC
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> MLPC$
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> MLPC$$typecreator1$1
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Nnetw
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Nnetw$
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Nnetw$$anonfun$1
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Nnetw$$anonfun$1$$anonfun$2
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Nnetw$$anonfun$1$$anonfun$apply$1
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Nnetw$$anonfun$1$$anonfun$apply$2
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Nnetw$$anonfun$3
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Nnetw$$anonfun$3$$anonfun$apply$3
+used names:
+142 items
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> $m
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> $m$untyped
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> $typecreator1
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> $u
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> +
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> <init>
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> AnyRef
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> Array
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> ClassTag
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> Int
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> MLPC
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> MLUtils
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> Mirror
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> MulticlassClassificationEvaluator
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> MultilayerPerceptronClassifier
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> Nothing
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> Predef
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> Row
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> SQLContext
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> Singleton
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> SparkConf
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> SparkContext
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> String
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> Type
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> TypeCreator
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> TypeTag
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> U
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> Unit
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> Universe
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> apache
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> apply
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> asInstanceOf
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> asType
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> classification
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> conf
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> data
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> evaluate
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> evaluation
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> evaluator
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> fit
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> functions
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> getClass
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> getClassLoader
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> implicits
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> layers
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> loadLibSVMFile
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> materializeClassTag
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> materializeTypeTag
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> ml
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> mllib
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> model
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> org
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> package
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> predictionAndLabels
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> println
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> randomSplit
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> rddToDataFrameHolder
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> reflect
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> result
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> runtime
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> runtimeMirror
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> sc
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> scala
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> select
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> setAppName
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> setBlockSize
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> setLayers
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> setMaxIter
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> setMetricName
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> setSeed
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> spark
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> splits
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> sql
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> sqlContext
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> staticClass
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> test
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> toDF
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> toTypeConstructor
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> train
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> trainer
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> transform
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> universe
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> util
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> !=
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> <init>
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> AnyRef
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Array
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> ClassTag
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Double
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Matrices
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Matrix
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Nnetw
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Predef
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> RowMatrix
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> SparkConf
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> SparkContext
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> String
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Unit
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Vector
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Vectors
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> _1
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> _2
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> a
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> aRows
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> apache
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> apply
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> augmentString
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> canBuildFrom
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> collect
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> conf
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> dense
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> distributed
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> doubleArrayOps
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> e
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> filter
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> flatMap
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> length
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> linalg
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> line
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> map
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> materializeClassTag
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> mllib
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> multiply
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> org
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> package
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> refArrayOps
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> res
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> rows
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> saveAsTextFile
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> sc
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> scala
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> setAppName
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> spark
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> sparse
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> split
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> textFile
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> toDouble
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> values
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> w
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> wRows
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> wrapRefArray
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> zipWithIndex
+product stamps:
+11 items
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/MLPC$$typecreator1$1.class -> lastModified(1450950039000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/MLPC$.class -> lastModified(1450950039000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/MLPC.class -> lastModified(1450950039000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw$$anonfun$1$$anonfun$2.class -> lastModified(1450950039000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw$$anonfun$1$$anonfun$apply$1.class -> lastModified(1450950039000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw$$anonfun$1$$anonfun$apply$2.class -> lastModified(1450950039000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw$$anonfun$1.class -> lastModified(1450950039000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw$$anonfun$3$$anonfun$apply$3.class -> lastModified(1450950039000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw$$anonfun$3.class -> lastModified(1450950039000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw$.class -> lastModified(1450950039000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Nnetw.class -> lastModified(1450950039000)
+source stamps:
+2 items
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> hash(be72923a986d03258f0397d286cecd3dedba8875)
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> hash(110e10cc04d246b9e1084169c66784dc947d9d73)
+binary stamps:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444173647000)
+/Users/Steffen/.ivy2/cache/org.apache.spark/spark-catalyst_2.10/jars/spark-catalyst_2.10-1.5.2.jar -> lastModified(1447182737000)
+/Users/Steffen/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar -> lastModified(1447165215000)
+/Users/Steffen/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.5.2.jar -> lastModified(1447185376000)
+/Users/Steffen/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-1.5.2.jar -> lastModified(1447182739000)
+/Users/Steffen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar -> lastModified(1396783702000)
+/Users/Steffen/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.4.jar -> lastModified(1396784157000)
+class names:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Steffen/.ivy2/cache/org.apache.spark/spark-catalyst_2.10/jars/spark-catalyst_2.10-1.5.2.jar -> org.apache.spark.sql.Row
+/Users/Steffen/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar -> org.apache.spark.SparkConf$
+/Users/Steffen/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.5.2.jar -> org.apache.spark.mllib.linalg.Matrix
+/Users/Steffen/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-1.5.2.jar -> org.apache.spark.sql.SQLImplicits
+/Users/Steffen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar -> scala.reflect.ClassTag$
+/Users/Steffen/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.4.jar -> scala.reflect.api.TypeCreator
+internal apis:
+2 items
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCUPFrrAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEasUsJ0AAZub3RpZnlzcQB+AAyYS+IgdAAEd2FpdHNxAH4ADBc+yGZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMxyfHsnQABmVxdWFsc3NxAH4ADAQ5U410AAxhc0luc3RhbmNlT2ZzcQB+AAzQmlIadAAMc3luY2hyb25pemVkc3EAfgAM3U8sVXQADSRpc0luc3RhbmNlT2ZzcQB+AAyvHcyEdAAEbWFpbnNxAH4ADHiQAmF0AAlub3RpZnlBbGxzcQB+AAyaKZildAAMaXNJbnN0YW5jZU9mc3EAfgAM4C85H3QAAj09c3EAfgAMhH/wf3QABWNsb25lc3EAfgAM3o6S6nQACHRvU3RyaW5nc3EAfgAMtQyDJXQAAiE9c3EAfgAMB4RNpXQACGdldENsYXNzc3EAfgAMenaRrnQABE1MUENzcQB+AAxgT84idAACbmVzcQB+AAwy2tv4dAACZXFzcQB+AAwyEEUCdAACIyNzcQB+AAwN3CwddAAIZmluYWxpemVzcQB+AAzv5Ki0dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AC11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYAHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBhc3EAfgBYAHBzcQB+AF11cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBreHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgByWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBxdAAFQXJyYXlxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBxdAAGU3RyaW5nc3EAfgB1c3EAfgB4dXEAfgB7AAAAA3NxAH4AfXQABGphdmFzcQB+AH10AARsYW5ncQB+AIJzcQB+AFgAcHNxAH4AXXVxAH4APAAAAABzcQB+AFgAcHNxAH4AXXVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVHTXHqsdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9Vc2Vycy9TdGVmZmVuL0RvY3VtZW50cy9jb2RpbmcvTm5ldHcvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFL5ykjqYbQMljwOX0obOzT3tuoh1
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBoMVqcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCg2R8J0AAZub3RpZnlzcQB+AAyRrZx5dAAEd2FpdHNxAH4ADFT8WcV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMfiN9znQABU5uZXR3c3EAfgAMjQ0ITXQABmVxdWFsc3NxAH4ADPTE0ut0AAxhc0luc3RhbmNlT2ZzcQB+AAxziTVFdAAMc3luY2hyb25pemVkc3EAfgAMc+MPS3QADSRpc0luc3RhbmNlT2ZzcQB+AAy8gLE3dAAEbWFpbnNxAH4ADGpYcQx0AAlub3RpZnlBbGxzcQB+AAzpyiI9dAAMaXNJbnN0YW5jZU9mc3EAfgAM3H0qpXQAAj09c3EAfgAMRxBobHQABWNsb25lc3EAfgAMnZdgzXQACHRvU3RyaW5nc3EAfgAMbvxVbnQAAiE9c3EAfgAMODFD73QACGdldENsYXNzc3EAfgAMDnmO2XQAAm5lc3EAfgAMxfxFwHQAAmVxc3EAfgAM1bKvWHQAAiMjc3EAfgAMSpV69nQACGZpbmFsaXplc3EAfgAMuKtLmHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAVdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWABwc3EAfgBdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYXNxAH4AWABwc3EAfgBddXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBQAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGB0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB+dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Aa3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AU3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AclsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AYHNxAH4AcXQABUFycmF5cQB+AHd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AcXQABlN0cmluZ3NxAH4AdXNxAH4AeHVxAH4AewAAAANzcQB+AH10AARqYXZhc3EAfgB9dAAEbGFuZ3EAfgCCc3EAfgBYAHBzcQB+AF11cQB+ADwAAAAAc3EAfgBYAHBzcQB+AF11cQB+AJYAAAACc3EAfgBxdAAGT2JqZWN0cQB+AJpzcQB+AHF0AANBbnlxAH4Ad3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFR01x6rHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD8vVXNlcnMvU3RlZmZlbi9Eb2N1bWVudHMvY29kaW5nL05uZXR3L3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQRDhDMBNJGueEIQWnGZ4TclH2dcw==
+external apis:
+0 items
+source infos:
+2 items
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> 
+AAAAAAAAAAA=
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUdNceqx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9TdGVmZmVuL0RvY3VtZW50cy9jb2RpbmcvTm5ldHcvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=

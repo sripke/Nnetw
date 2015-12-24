@@ -20,10 +20,12 @@ object Nnetw {
     val w = new RowMatrix(wRows)
 
     // Create dense vector (matrix) a for input
-    val aRows = sc.textFile("a.txt").map(_.split(' ').map(_.toDouble))
-    val a = Matrices.dense(3, 2, aRows.collect()(0))
+    val aRows = sc.textFile("a.txt").flatMap(line => line.split(' ').map(_.toDouble))
 
-    //w.rows.foreach(println)
-    w.multiply(a.transpose).rows.foreach(println)
+    val a = Matrices.dense(3, 2, aRows.collect())
+    // caution: a has to be transformed to "row major matrix" first!
+    // otherwise this result is wrong
+    val res = w.multiply(a)
+    res.rows.saveAsTextFile("result")
   }
 }
