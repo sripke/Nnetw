@@ -56,6 +56,10 @@ plugins=(git ruby scala gem history history-substring-search terminalapp)
 export PATH="/Users/Steffen/.rvm/gems/ruby-2.2.3/bin:/Users/Steffen/.rvm/gems/ruby-2.2.3@global/bin:/Users/Steffen/.rvm/rubies/ruby-2.2.3/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Steffen/.rvm/bin"
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 export PATH="$PATH:/usr/local/Cellar/apache-spark/1.5.2/bin:/usr/local/Cellar/sbt/0.13.9/bin"
+
+# export HADOOP_HOME="/usr/local/Cellar/hadoop/2.7.1"
+# export HADOOP_CONF_DIR=$HADOOP_HOME/libexec/etc/hadoop
+
 # in .zprofile: export MAILCHIMP_API_KEY=""
 # in .zprofile: export MAILCHIMP_LIST_ID=""
 
