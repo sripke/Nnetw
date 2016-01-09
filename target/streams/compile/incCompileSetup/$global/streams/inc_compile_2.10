@@ -19,23 +19,20 @@ name hashing:
 1 items
 0 -> true
 products:
-18 items
+15 items
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/MLPC$$typecreator1$1.class
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/MLPC$.class
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/MLPC.class
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$1.class
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$2.class
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$3$$anonfun$4.class
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$3$$anonfun$apply$1.class
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$3$$anonfun$apply$2.class
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$3.class
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$5$$anonfun$apply$3.class
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$5.class
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$6.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$feedforward$1.class
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$print$1.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$print$2$$anonfun$apply$1.class
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$print$2.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$randomize$1.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$randomize$2$$anonfun$apply$2.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$randomize$2.class
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet.class
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Test$$anonfun$7.class
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Test$$anonfun$2.class
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Test$.class
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Test.class
 binary dependencies:
@@ -69,27 +66,24 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-18 items
+15 items
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> MLPC
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> MLPC$
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> MLPC$$typecreator1$1
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$1
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$2
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$3
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$3$$anonfun$4
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$3$$anonfun$apply$1
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$3$$anonfun$apply$2
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$5
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$5$$anonfun$apply$3
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$6
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$feedforward$1
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$print$1
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$print$2
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$print$2$$anonfun$apply$1
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$randomize$1
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$randomize$2
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet$$anonfun$randomize$2$$anonfun$apply$2
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Test
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Test$
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Test$$anonfun$7
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Test$$anonfun$2
 used names:
-180 items
+172 items
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> $m
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> $m$untyped
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> $typecreator1
@@ -173,7 +167,6 @@ used names:
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> transform
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> universe
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> util
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> !=
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> +
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> -
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> /
@@ -181,68 +174,69 @@ used names:
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> AnyRef
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Array
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> ClassTag
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> DenseMatrix
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> DenseVector
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Double
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Int
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> List
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Matrices
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Matrix
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> NeuralNet
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Nil
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Predef
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Random
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> RowMatrix
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> SQLContext
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> ScalaRunTime
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Seq
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> SparkConf
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> SparkContext
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> String
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Test
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Unit
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Vector
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> Vectors
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> _1
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> _2
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> a
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> aRows
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> apache
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> apply
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> args
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> arrayClass
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> asInstanceOf
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> augmentString
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> bias
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> biases
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> biases_=
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> canBuildFrom
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> collect
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> col
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> collection
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> columns
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> conf
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> conforms
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> dense
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> distributed
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> doubleArrayOps
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> e
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> exp
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> filter
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> flatten
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> foreach
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> functions
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> grouped
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> immutable
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> intArrayOps
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> java
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> length
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> linalg
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> line
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> m
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> map
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> materializeClassTag
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> math
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> mllib
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> multiply
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> nn
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> numRows
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> num_layers
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> org
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> package
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> parallelize
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> print
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> println
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> randn
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> randomize
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> refArrayOps
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> res
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> rows
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> saveAsTextFile
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> sc
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> scala
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> setAppName
@@ -250,50 +244,39 @@ used names:
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> sizes
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> slice
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> spark
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> sparse
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> split
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> sql
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> sqlContext
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> textFile
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> toDouble
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> toArray
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> toInt
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> toList
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> transpose
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> toSeq
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> unary_-
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> util
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> values
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> w
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> wRows
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> weights
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> wrapDoubleArray
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> wrapRefArray
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> weights_=
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> z
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> zip
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> zipWithIndex
 product stamps:
-18 items
+15 items
 /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/MLPC$$typecreator1$1.class -> lastModified(1451833187000)
 /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/MLPC$.class -> lastModified(1451833187000)
 /Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/MLPC.class -> lastModified(1451833187000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$1.class -> lastModified(1452091026000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$2.class -> lastModified(1452091026000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$3$$anonfun$4.class -> lastModified(1452091026000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$3$$anonfun$apply$1.class -> lastModified(1452091026000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$3$$anonfun$apply$2.class -> lastModified(1452091026000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$3.class -> lastModified(1452091026000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$5$$anonfun$apply$3.class -> lastModified(1452091026000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$5.class -> lastModified(1452091026000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$6.class -> lastModified(1452091026000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$print$1.class -> lastModified(1452091026000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$print$2.class -> lastModified(1452091026000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet.class -> lastModified(1452091026000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Test$$anonfun$7.class -> lastModified(1452091026000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Test$.class -> lastModified(1452091026000)
-/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Test.class -> lastModified(1452091026000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$1.class -> lastModified(1452340661000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$feedforward$1.class -> lastModified(1452340661000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$print$1.class -> lastModified(1452340661000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$print$2$$anonfun$apply$1.class -> lastModified(1452340661000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$print$2.class -> lastModified(1452340661000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$randomize$1.class -> lastModified(1452340661000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$randomize$2$$anonfun$apply$2.class -> lastModified(1452340661000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet$$anonfun$randomize$2.class -> lastModified(1452340661000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/NeuralNet.class -> lastModified(1452340661000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Test$$anonfun$2.class -> lastModified(1452340661000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Test$.class -> lastModified(1452340661000)
+/Users/Steffen/Documents/coding/Nnetw/target/scala-2.10/classes/Test.class -> lastModified(1452340661000)
 source stamps:
 2 items
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> hash(be72923a986d03258f0397d286cecd3dedba8875)
-/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> hash(3fc37c64be3039ed4473b3446fedbb57ab7aea1d)
+/Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> hash(e4d8c5b6d9ef478c5714edc2b3ed22de168fe6df)
 binary stamps:
 7 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444173647000)
@@ -307,17 +290,17 @@ class names:
 7 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
 /Users/Steffen/.ivy2/cache/org.apache.spark/spark-catalyst_2.10/jars/spark-catalyst_2.10-1.5.2.jar -> org.apache.spark.sql.Row
-/Users/Steffen/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar -> org.apache.spark.SparkContext$
-/Users/Steffen/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.5.2.jar -> org.apache.spark.mllib.linalg.Matrix
-/Users/Steffen/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-1.5.2.jar -> org.apache.spark.sql.SQLContext
-/Users/Steffen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar -> scala.runtime.ScalaRunTime$
+/Users/Steffen/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.5.2.jar -> org.apache.spark.SparkContext
+/Users/Steffen/.ivy2/cache/org.apache.spark/spark-mllib_2.10/jars/spark-mllib_2.10-1.5.2.jar -> org.apache.spark.mllib.linalg.distributed.RowMatrix
+/Users/Steffen/.ivy2/cache/org.apache.spark/spark-sql_2.10/jars/spark-sql_2.10-1.5.2.jar -> org.apache.spark.sql.SQLContext$
+/Users/Steffen/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar -> scala.collection.Iterator
 /Users/Steffen/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.4.jar -> scala.reflect.api.TypeCreator
 internal apis:
 2 items
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/MLPC.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCUPFrrAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEasUsJ0AAZub3RpZnlzcQB+AAyYS+IgdAAEd2FpdHNxAH4ADBc+yGZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMxyfHsnQABmVxdWFsc3NxAH4ADAQ5U410AAxhc0luc3RhbmNlT2ZzcQB+AAzQmlIadAAMc3luY2hyb25pemVkc3EAfgAM3U8sVXQADSRpc0luc3RhbmNlT2ZzcQB+AAyvHcyEdAAEbWFpbnNxAH4ADHiQAmF0AAlub3RpZnlBbGxzcQB+AAyaKZildAAMaXNJbnN0YW5jZU9mc3EAfgAM4C85H3QAAj09c3EAfgAMhH/wf3QABWNsb25lc3EAfgAM3o6S6nQACHRvU3RyaW5nc3EAfgAMtQyDJXQAAiE9c3EAfgAMB4RNpXQACGdldENsYXNzc3EAfgAMenaRrnQABE1MUENzcQB+AAxgT84idAACbmVzcQB+AAwy2tv4dAACZXFzcQB+AAwyEEUCdAACIyNzcQB+AAwN3CwddAAIZmluYWxpemVzcQB+AAzv5Ki0dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AC11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYAHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBhc3EAfgBYAHBzcQB+AF11cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBreHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgByWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBxdAAFQXJyYXlxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBxdAAGU3RyaW5nc3EAfgB1c3EAfgB4dXEAfgB7AAAAA3NxAH4AfXQABGphdmFzcQB+AH10AARsYW5ncQB+AIJzcQB+AFgAcHNxAH4AXXVxAH4APAAAAABzcQB+AFgAcHNxAH4AXXVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVIIAEUedXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9Vc2Vycy9TdGVmZmVuL0RvY3VtZW50cy9jb2RpbmcvTm5ldHcvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFL5ykjqYbQMljwOX0obOzT3tuoh1
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDzMFwDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGPcvLB0AAZub3RpZnlzcQB+AAzU6LdDdAAEd2FpdHNxAH4ADFIZpnh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMjb2UY3QABmVxdWFsc3NxAH4ADL1tLQh0AAdzaWdtb2lkc3EAfgAMkXzOOXQADGFzSW5zdGFuY2VPZnNxAH4ADJcCFoZ0AAVwcmludHNxAH4ADMRzKLZ0AAd3ZWlnaHRzc3EAfgAMMQ2k4XQADHN5bmNocm9uaXplZHNxAH4ADLS++0B0AAJzY3NxAH4ADGxVaTN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMxfjRHnQACU5ldXJhbE5ldHNxAH4ADKkEUbx0AApudW1fbGF5ZXJzc3EAfgAMYd/62nQABG1haW5zcQB+AAxcedUsdAAJbm90aWZ5QWxsc3EAfgAMVrqxlXQABGNvbmZzcQB+AAyB1sEBdAAMaXNJbnN0YW5jZU9mc3EAfgAMUq3Xq3QABjxpbml0PnNxAH4ADF4CPoV0AAI9PXNxAH4ADGxFZF90AApzcWxDb250ZXh0c3EAfgAMtX/BcnQABWNsb25lc3EAfgAMVlIw/HQABGJpYXNzcQB+AAw51KR8dAAEVGVzdHNxAH4ADElAwXx0AAh0b1N0cmluZ3NxAH4ADK55GQt0AAIhPXNxAH4ADE8A+3t0AAhnZXRDbGFzc3NxAH4ADNU/OVR0AAVzdGFydHNxAH4ADMJoSxV0AAJuZXNxAH4ADFJH/Rt0AAJlcXNxAH4ADDZ0rI50AAIjI3NxAH4ADDwOvT50AAhmaW5hbGl6ZXNxAH4ADKlv6bl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AJXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBuAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBXTAAJaW5oZXJpdGVkcQB+AFdMAAdwYXJlbnRzcQB+AFd4cQB+AHVzcQB+AG4BdXEAfgBSAAAAAHBzcQB+AG4BdXEAfgBSAAAAAHBzcQB+AG4BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB0dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB0c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCNdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCOc3EAfgCBdAADQW55c3EAfgCFc3EAfgCIdXEAfgCLAAAAAnNxAH4AjXQABXNjYWxhcQB+AJRwcHNxAH4AVHEAfgBhdXEAfgBiAAAAAHNxAH4AZABxAH4AO3VxAH4AZgAAAAB+cQB+AGh0AAZNb2R1bGV1cQB+AGwAAAAAc3EAfgBuAXEAfgB2cHNxAH4AbgFzcQB+AHhzcQB+AG4BdXEAfgBSAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBYcQB+AGF1cQB+AGIAAAAAc3EAfgBkAHEAfgApdXEAfgBmAAAAAHNxAH4AgXQABFVuaXRzcQB+AIVzcQB+AIh1cQB+AIsAAAACc3EAfgCNcQB+AJtxAH4AlHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AKl4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGl0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIJbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHRzcQB+AIF0AAVBcnJheXEAfgCxdXEAfgB/AAAAAXNxAH4AgXQABlN0cmluZ3NxAH4AhXNxAH4AiHVxAH4AiwAAAANzcQB+AI1xAH4AkHNxAH4AjXEAfgCScQB+AJRwc3EAfgBuAXVxAH4AUgAAAABwc3EAfgBuAXVxAH4AfwAAAAJzcQB+AIFxAH4AhHEAfgDLc3EAfgCBcQB+AJZxAH4AsXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVIXXozXdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPy9Vc2Vycy9TdGVmZmVuL0RvY3VtZW50cy9jb2RpbmcvTm5ldHcvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFD/DfGS+MDntRHOzRG/tu1ereuod
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBk3JyfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAInNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGPcvLB0AAZub3RpZnlzcQB+AAycjGk/dAALZmVlZGZvcndhcmRzcQB+AAzU6LdDdAAEd2FpdHNxAH4ADFIZpnh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMjb2UY3QABmVxdWFsc3NxAH4ADL1tLQh0AAdzaWdtb2lkc3EAfgAMkXzOOXQADGFzSW5zdGFuY2VPZnNxAH4ADJcCFoZ0AAVwcmludHNxAH4ADLcFTFp0AAd3ZWlnaHRzc3EAfgAMMQ2k4XQADHN5bmNocm9uaXplZHNxAH4ADLS++0B0AAJzY3NxAH4ADGxVaTN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMxfjRHnQACU5ldXJhbE5ldHNxAH4ADKkEUbx0AApudW1fbGF5ZXJzc3EAfgAMYd/62nQABG1haW5zcQB+AAxcedUsdAAJbm90aWZ5QWxsc3EAfgAMVrqxlXQABGNvbmZzcQB+AAyB1sEBdAAMaXNJbnN0YW5jZU9mc3EAfgAMUq3Xq3QABjxpbml0PnNxAH4ADF4CPoV0AAI9PXNxAH4ADGxFZF90AApzcWxDb250ZXh0c3EAfgAMtX/BcnQABWNsb25lc3EAfgAMOdSkfHQABFRlc3RzcQB+AAxJQMF8dAAIdG9TdHJpbmdzcQB+AAyueRkLdAACIT1zcQB+AAxPAPt7dAAIZ2V0Q2xhc3NzcQB+AAyJuvlFdAAGYmlhc2Vzc3EAfgAMwmhLFXQAAm5lc3EAfgAMUkf9G3QAAmVxc3EAfgAM3bUJ1HQABXdyaXRlc3EAfgAMNnSsjnQAAiMjc3EAfgAMPA69PnQACGZpbmFsaXplc3EAfgAMqW/puXQACGhhc2hDb2Rlc3EAfgAMODfHlnQACXJhbmRvbWl6ZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AJ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Ac3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcgBwc3EAfgB3c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFtMAAlpbmhlcml0ZWRxAH4AW0wAB3BhcmVudHNxAH4AW3hxAH4Ae3NxAH4AcgBwc3EAfgB3dXEAfgBWAAAAAHNxAH4AcgBwc3EAfgB3dXEAfgBWAAAAAHNxAH4AcgBwc3EAfgB3dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB6dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABB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
 external apis:
 0 items
 source infos:
@@ -327,7 +310,7 @@ AAAAAAAAAAA=
 /Users/Steffen/Documents/coding/Nnetw/src/main/scala/Nnetw.scala -> 
 AAAAAAAAAAA=
 compilations:
-8 items
+9 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUggARR51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9TdGVmZmVuL0RvY3VtZW50cy9jb2RpbmcvTm5ldHcvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
 1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUggBSFB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9TdGVmZmVuL0RvY3VtZW50cy9jb2RpbmcvTm5ldHcvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
 2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUggCV+Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9TdGVmZmVuL0RvY3VtZW50cy9jb2RpbmcvTm5ldHcvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
@@ -336,3 +319,4 @@ compilations:
 5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUggRUqh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9TdGVmZmVuL0RvY3VtZW50cy9jb2RpbmcvTm5ldHcvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
 6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUggSAQx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9TdGVmZmVuL0RvY3VtZW50cy9jb2RpbmcvTm5ldHcvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
 7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUhdejNd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9TdGVmZmVuL0RvY3VtZW50cy9jb2RpbmcvTm5ldHcvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUiY/s3R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9TdGVmZmVuL0RvY3VtZW50cy9jb2RpbmcvTm5ldHcvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
