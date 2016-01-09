@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for neural-network-project#neural-network-project_2.10;1.0 [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies neural-network-project#neural-network-project_2.10;1.0->org.scala-lang#scala-library;2.10.4 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.4 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@10e08efc[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2275a1a[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.4 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.10.4] org.scala-lang#scala-library;2.10.4[0m
@@ -18665,7 +18665,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.4!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 5384ms :: artifacts dl 116ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 5266ms :: artifacts dl 107ms[0m
 [0m[[0mdebug[0m] [0m	report for neural-network-project#neural-network-project_2.10;1.0 compile produced in /Users/Steffen/Documents/coding/Nnetw/target/resolution-cache/reports/neural-network-project-neural-network-project_2.10-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for neural-network-project#neural-network-project_2.10;1.0 runtime produced in /Users/Steffen/Documents/coding/Nnetw/target/resolution-cache/reports/neural-network-project-neural-network-project_2.10-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for neural-network-project#neural-network-project_2.10;1.0 test produced in /Users/Steffen/Documents/coding/Nnetw/target/resolution-cache/reports/neural-network-project-neural-network-project_2.10-test.xml[0m
@@ -18679,5 +18679,5 @@
 [0m[[0mdebug[0m] [0m	report for neural-network-project#neural-network-project_2.10;1.0 docs produced in /Users/Steffen/Documents/coding/Nnetw/target/resolution-cache/reports/neural-network-project-neural-network-project_2.10-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for neural-network-project#neural-network-project_2.10;1.0 pom produced in /Users/Steffen/Documents/coding/Nnetw/target/resolution-cache/reports/neural-network-project-neural-network-project_2.10-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for neural-network-project#neural-network-project_2.10;1.0 scala-tool produced in /Users/Steffen/Documents/coding/Nnetw/target/resolution-cache/reports/neural-network-project-neural-network-project_2.10-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (5384ms resolve - 116ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (5266ms resolve - 107ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
