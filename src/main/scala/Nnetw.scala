@@ -25,15 +25,21 @@ class NeuralNet(sizes: List[Int]) {
   val data = getLabeledPoints(trainImages)
 
   def feedforward(a: DenseVector) {
-    println("ff a, biases, weights:") //780,3,780
-    println(a.size)
-    println(biases(0).size)
+    println("ff biases, weights:") //((3,780)x(780,1)=(3,1), (1,3)x(780,1) <-error
     println(weights(0).numRows())
     println(weights(0).numCols())
+    println(weights(1).numRows()) //1
+    println(weights(1).numCols()) //3
+    println(Matrices.dense(a.size, 1, a.toArray).numRows)//780
+    println(Matrices.dense(a.size, 1, a.toArray).numCols)//1
+    println("ff biases zip weights:") //(3,780)x(780,1)
+    println(biases.zip(weights))
     for (e1 <- biases.zip(weights))
-      yield e1._2.multiply(Matrices.dense(a.size, 1, a.toArray)).rows.map(x =>
-        Vectors.dense(for(e2 <- x.toArray.zip(e1._1.toArray))
+      yield {
+        val aMatrix: DenseMatrix = e1._2.multiply(Matrices.dense(a.size, 1, a.toArray))
+        a.rows.map(x => Vectors.dense(for(e2 <- x.toArray.zip(e1._1.toArray))
         yield e2._1 + e2._2))
+      }
   }
   def sigmoid(z: Double): Double = {
     return 1.0/(1.0 + math.exp(-z))
@@ -51,7 +57,7 @@ class NeuralNet(sizes: List[Int]) {
       yield Vectors.dense(Matrices.randn(e, 1, new java.util.Random)
         .asInstanceOf[DenseMatrix].toArray).asInstanceOf[DenseVector]
 
-    weights = for (e <- sizes.slice(1, num_layers).zip(sizes.slice(0, num_layers - 1)))
+    weights = for (e <- sizes.slice(0, num_layers - 1).zip(sizes.slice(1, num_layers)))
       yield new RowMatrix(sc.parallelize(Matrices.randn(e._1, e._2, new java.util.Random)
         .asInstanceOf[DenseMatrix].toArray.grouped(e._1).toSeq
         .map(col => new DenseVector(col.toArray))))
@@ -85,7 +91,7 @@ object Test {
   def main(args: Array[String]) {
     val nn = new NeuralNet(args.map(_.toInt).toList)
     nn.randomize()
-    nn.print()
+    //nn.print()
     nn.feedforward(nn.data.first.features.asInstanceOf[DenseVector])
   }
 }
