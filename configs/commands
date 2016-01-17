@@ -1,6 +1,7 @@
 sbt clean package
 spark-submit --class MLPC target/scala-2.10/neural-network-project_2.10-1.0.jar
 
+hadoop fs -put mnist.t.tsv / 
 hadoop fs -rm -r /result.txt
 
 git add .
